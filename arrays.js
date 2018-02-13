@@ -11,6 +11,4 @@ function destructivelyAddElementToBeginningOfArray (arrayA, elementB) {
   
 }
 
-function accessElementInArray(arrayA, ind) {
-  return arrayA[ind]
-}
+
